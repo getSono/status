@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sono.is-a.dev.ico",
     "slug": "sono-website",
     "status": "up",
-    "uptime": "97.39%",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 217,
-    "timeWeek": 203,
-    "timeMonth": 182,
+    "time": 207,
+    "timeDay": 266,
+    "timeWeek": 227,
+    "timeMonth": 189,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 260,
-    "timeDay": 355,
-    "timeWeek": 157,
-    "timeMonth": 188,
-    "timeYear": 271,
+    "time": 259,
+    "timeDay": 152,
+    "timeWeek": 165,
+    "timeMonth": 192,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-07-03": 171,
+      "2026-07-04": 167,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -397,8 +398,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   }
 ]
